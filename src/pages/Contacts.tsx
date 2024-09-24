@@ -1,4 +1,7 @@
 export const Contacts = () => {
-    return <>Contats</>;
+    return <>
+        Contats
+        <p>bajs bajs bajs bajs bajs bajsbaajasjd</p>
+    </>;
 };
   
